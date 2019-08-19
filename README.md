@@ -1,2 +1,3 @@
 # bitPoll
-Find out what people REALLY think with the honest BSV-powered poll system
+
+Find out what people REALLY think with the honest BSV-powered poll system.
